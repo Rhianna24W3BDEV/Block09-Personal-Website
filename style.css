@@ -1,0 +1,111 @@
+html, body{
+    background-color: rgb(47, 49, 49);
+    color: pink;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin:0 ;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    color: pink;
+    box-shadow: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.navigation{
+    gap: 10px;
+}
+
+
+img{
+    width: 200px;
+    margin: 10px;
+    float:right
+}
+
+.quote{
+    text-align: center;
+    font-size: 30px;
+    font-family:cursive;
+    
+}
+
+.workh1{
+    text-align: center;
+}
+
+.abouth1{
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+}
+
+.about1{
+    border-top: 1px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-top-color: pink;
+    border-top-style: solid;
+    float: right;
+}
+
+.about2{
+    border-top: 1px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-top-color: pink;
+    border-top-style: solid;
+    float: right;
+}
+
+.about3{
+        border-top: 1px;
+        margin-right: 50px;
+        margin-left: 50px;
+        border-top-color: pink;
+        border-top-style: solid;
+        float: right;
+}
+
+.work1{
+    float: right;
+    background-color: rgb(67, 2, 41) ;
+    Margin: 20px;
+    padding: 10px;
+    border-style:double;
+    border-width: 2cap;
+    text-align: center;
+}
+
+.work2{
+    float: right;
+    background-color: rgb(67, 2, 41) ;
+    Margin: 20px;
+    padding: 10px;
+    border-style:double;
+    border-width: 2cap;
+    text-align: center;
+}
+
+.work3{
+    float: right;
+    background-color: rgb(67, 2, 41) ;
+    Margin: 20px;
+    padding: 10px;
+    border-style:double;
+    border-width: 2cap;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    padding: 30px;
+
+}
