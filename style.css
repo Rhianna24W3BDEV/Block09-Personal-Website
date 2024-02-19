@@ -109,3 +109,19 @@ footer{
     padding: 30px;
 
 }
+
+.flex-container{
+    display: flex;
+    background-color:rgb(67, 2, 41);
+    flex-direction: column;
+    text-align: center;
+    margin: 50px;
+    border-color: pink;
+    border: solid;
+}
+    
+#thank-you-message{
+    text-align: center;
+    font-size: 50px;
+    margin: 50px;
+}
